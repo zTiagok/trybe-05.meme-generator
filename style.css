@@ -2,6 +2,8 @@
 {
 
   position: absolute;
+  background-color: white;
+  border: 1px solid black;
 }
 
 #meme-text
@@ -9,6 +11,28 @@
 
   position: relative;
   margin: auto;
-  top: 25px;
+  top: 35px;
   left: -280px;
+
+  text-shadow: 5px 5px 5px black;
+  font-size: 30px;
+  color: white;
+}
+
+#fire
+{
+
+  background-color: rgb(255,0,0);
+}
+
+#water
+{
+
+  background-color: blue;
+}
+
+#earth
+{
+
+  background-color: green;
 }
