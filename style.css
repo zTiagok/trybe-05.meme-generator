@@ -9,14 +9,17 @@
 #meme-text
 {
 
-  position: relative;
+  position: absolute;
   margin: auto;
-  top: 40px;
-  left: -275px;
-
+  top: 50px;
+  left: 30px;
+  width: 200px;
+  text-align: center;
+  word-wrap: break-word;
   text-shadow: 5px 5px 5px black;
   font-size: 30px;
   color: white;
+  border: 2px solid red
 }
 
 #fire
