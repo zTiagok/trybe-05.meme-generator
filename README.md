@@ -1,15 +1,15 @@
 <div align="center">
   <h3>
-    Check out this project <a href="-"> website</a>! 
+    Check out this project <a href="https://ztiagok.github.io/trybe-05.meme-generator/"> website</a>! 
   <h3>
   <h2>
-    -
+    Meme Generator
     <br><br>
   </h2>
 
   > Status: Finished ✔️
   >
-  > Conclusion Date: - 📆
+  > Conclusion Date: 29/04/2022 📆
   >
   > Version: - 🧪
   >
@@ -28,9 +28,9 @@
     ℹ️ Information ℹ️
   </h3>
   <br>
-  <span> - </span> 
+  <span> A basic meme generator. </span> 
   <br><br>
-  <span> - </span>
+  <span> Add an image, insert a caption, a border, and you're done.  </span>
   <br>
   <hr>
   <h3>
@@ -39,18 +39,12 @@
   <div align="left">
   <br>
   
-- [X] 1. 
-- [X] 2. 
-- [X] 3. 
-- [X] 4. 
-- [X] 5. 
-- [X] 6. 
-- [X] 7. 
-- [X] 8.
-- [X] 9. 
-- [X] 10. 
-- [X] 11. 
-- [X] 12. 
+- [X] 1. Create a text box that the user can interact with to enter text on top of the chosen image.
+- [X] 2. The site must allow the user to upload an image from his computer.	
+- [X] 3. Add a frame to the container. The frame should be 1 pixel wide, black and of type 'solid'. The area where the image will appear should have a white background.
+- [X] 4. Add the text that will be inserted over the image has a specific color, shade and size.
+- [X] 5. Limit the size of the text that the user can enter.
+- [X] 6. Allow the user to customize the chosen meme by adding one of three borders to it. The page should have three buttons, which when clicked should each change their own border around the container.
   </div>
   <br>
   <hr>
@@ -58,7 +52,7 @@
     📄 Pages and Components 📄
   </h3>
   <br>
-  <span> - </span>
+  <span> Basic HTML, Javascript and CSS </span>
   <br>
   <hr>
   <h3>
