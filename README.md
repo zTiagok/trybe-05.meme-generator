@@ -57,7 +57,7 @@
   <span> ◐ Choose a file from your computer to use in your meme. ◑ </span>
   <br><br>
   <span> ◐ Choose a border to decorate it with. ◑ </span>
-  <br>
+  <br><br>
   <hr>
   <h3>
     📦 Frameworks and Libraries 📦
