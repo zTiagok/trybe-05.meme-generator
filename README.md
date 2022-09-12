@@ -49,7 +49,7 @@
   <br>
   <hr>
   <h3>
-    📄 Pages and Components 📄
+    📄 Features 📄
   </h3>
   <br>
   <span> ◐ Type text into the input to render it into your meme. ◑ </span>
