@@ -52,7 +52,11 @@
     📄 Pages and Components 📄
   </h3>
   <br>
-  <span> Basic HTML, Javascript and CSS </span>
+  <span> ◐ Type text into the input to render it into your meme. ◑ </span>
+  <br><br>
+  <span> ◐ Choose a file from your computer to use in your meme. ◑ </span>
+  <br><br>
+  <span> ◐ Choose a border to decorate it with. ◑ </span>
   <br>
   <hr>
   <h3>
